@@ -20,7 +20,7 @@ textos con herramientas digitales como las propuestas en [The Programming Histor
 El proyecto se conecta con los trabajos de investigación de la Red de Estudios
 del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.rersab.org/), particularmente con su sección sobre orden normativo.
 
-## Publicacionesd relacionadas
+## Publicaciones relacionadas
 
 * Gayol, Víctor, y Jairo Antonio Melo Flórez.
 “Jurisdictional Culture and Memory Digitization of the ‘Government of Justice.’ Data Modeling and Digital Approach for the Legal History of Ibero-America”. *Culture & History Digital Journal*. 7, núm. 2 (diciembre de 2018): 15. <https://doi.org//10.3989/chdj.2018.017>.
