@@ -5,8 +5,6 @@ normativos hispano-indianos producidos entre 1492 y 1821.
 
 Una versión de prueba del repositorio fue el [corpus de derecho hispano indiano](https://github.com/Cibercliografia/Corpus-de-derecho-castellano-indiano-digital).
 
-, cuya primera propuesta se presentó en el marco de la DH2018 conference, “Puentes/Bridges” con el título [“Corpus Jurídico Hispano Indiano Digital: Análisis De Una Cultura Jurisdiccional”](https://dh-abstracts.library.cmu.edu/works/6545)
-
 ## Objetivo
 
 El proyecto *Corpus normativo hispano indiano digital* es desarrollado por Víctor Gayol, profesor-investigador del Centro de Estudios Históricos de El Colegio de Michoacán, A.C.
