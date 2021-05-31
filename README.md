@@ -24,3 +24,7 @@ del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.re
 
 * Gayol, Víctor, y Jairo Antonio Melo Flórez.
 “Jurisdictional Culture and Memory Digitization of the ‘Government of Justice.’ Data Modeling and Digital Approach for the Legal History of Ibero-America”. *Culture & History Digital Journal*. 7, núm. 2 (diciembre de 2018): 15. <https://doi.org//10.3989/chdj.2018.017>.
+
+![Logo-del-COMICH](/logos/colmich-logo.jpg)
+
+![Logo-de-rersab](/logos/logo-rersab.png)
