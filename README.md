@@ -17,8 +17,6 @@ textos con herramientas digitales como las propuestas en [The Programming Histor
 
 ## Proyectos relacionados
 
-El proyecto
-
 El proyecto se conecta con los trabajos de investigación de la Red de Estudios
 del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.rersab.org/), particularmente con su sección sobre orden normativo.
 
