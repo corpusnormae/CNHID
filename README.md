@@ -1,6 +1,6 @@
 # CNHID - corpus normativo hispano indiano digital
 
-Este repositorio contiene los archivos de prueba –por tanto, es un repositorio experimental–, para
+Este repositorio piloto contiene los archivos, para
 el desarrollo del proyecto de digitalización de textos jurídicos
 normativos hispano-indianos que se hayan producido entre 1492 y 1821.
 
