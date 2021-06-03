@@ -104,12 +104,13 @@
       <!-- Información sobre las revisiones del archivo electrónico -->
          <change when="2021-05-24">Creación del archivo</change>
          <change when="2021-05-26">Arreglo de metadatos</change>
+         <change when="2021-06-02">Correcciones</change>
       </revisionDesc>
   </teiHeader>
   <text>
       <body>
-         <pb n="245r."/>
          <div>
+            <pb n="245r."/>
             <!-- Puede llevar <ab> para bloques o <p> para párrafos -->           
             <p>
                <lb/>N. 140
@@ -137,7 +138,7 @@
                <lb break="no"/>guida confianza entendiendose con la 
                <lb/>expresada calidad de por ahora y hasta 
                <lb/>nueva disposición de <choice><abbr>S.M.</abbr><expan>S<ex>u </ex>M<ex>ajestad</ex></expan></choice> quien tambien 
-               <lb/>autoriza á <choice><abbr>V.S.</abbr><expan>V<ex>uestra </ex>S<ex>uperioridad</ex></expan></choice> para que señale a dhos 
+               <lb/>autoriza á <choice><abbr>V.S.</abbr><expan>V<ex>uestra </ex>S<ex>uperioridad</ex></expan></choice> para que señale a <choice><abbr>dhos</abbr><expan>d<ex>ic</ex>hos</expan></choice> 
                <lb/>subdelegados una moderada cantidad anu
                <lb break="no"/>al por via de ayuda de costa y con el 
                <lb/>mismo acuerdo del Gefe Superior de ese 
@@ -152,9 +153,7 @@
             <p>
                <lb/><choice><abbr>S.r</abbr><expan>S<ex>eño</ex>r</expan></choice> <choice><abbr>D.n</abbr><expan>D<ex>o</ex>n</expan></choice> Fernando Josef Mangino
             </p>
-         </div>
          <pb n="246r."/>
-         <div>
             <p>
                <lb/>México 3. de Julio de 1788.
             </p>
