@@ -78,7 +78,7 @@ La tabla al final de este documento es el listado completo de textos digitalizad
 | 1718 | *Ordenanza de 4 de julio de 1718 para el establecimiento e instrucción de Intendentes de Provincias, y Exércitos*, por orden de Su Magestad, En Madrid, En la Imprenta de Juan de Ariztia, Año de 1718 | CNHID00046 |
 | 1749 | *Ordenanza de 13 de octubre de 1749 para el restablecimiento de las instrucciones de las provincias exercias*, por orden de Su Magestad, Madrid, En la Imprenta de Manuel Fernández, año de 1749 | CNHID00047 |
 | 1782 | *Real Ordenanza para el establecimiento è instruccion de intendentes de exército y provincia en el virreinato de Buenos Aires*. Año de 1782. por orden de Su Magestad, Madrid, En la Imprenta Real, 1783 | CNHID00007 |
-| 1786 | *Real Ordenanza para el establecimiento de intendentes del ejército y la provincia en el Reino de la Nueva España*, de orden de Su Magestad , Madrid, año de 1786 | CNHID00004 |
+| 1786 | *Real Ordenanza para el establecimiento de intendentes del ejército y la provincia en el Reino de la Nueva España*, de orden de Su Magestad , Madrid, año de 1786[^Fn1] | CNHID00004 |
 | 1803 | *Ordenanza general formada de orden de Su Majestad, y mandada imprimir y publicar para el gobierno e instrucción de intendentes, subdelegados y por demás empleados en Indias*, Madrid, En la Imprenta de la Viuda de Ibarra, 1803 | CNHID00048 |
 
 ## Lista de textos digitalizados
@@ -97,6 +97,8 @@ La lista está organizada en orden ascendente según el número CNHIDxxxxx que s
 | CNHID00005 | Reales aranceles de los ministros de la real audiencia... | 1699-1727 | México | TD | en proceso |
 | CNHID00006 | Cedulario de la Nueva España, Vasco de Puga | 1563 | México | OCR | en proceso |
 | CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | Madrid | OCR | en proceso |
-| [CNHID00008](/ed//texts/-CNHID00008)  | Real órden AGN-RCO-136-140 | 1787-03-28 | Madrid | TD | Sí |
-| [CNHID00009](/ed//texts/-CNHID00009)  | Real cédula AGN-RCO-139-21 | 1788-01-16 | El Pardo | TD | Sí |
-| [CNHID00010](/ed//texts/-CNHID00010)  | Real cédula AGN-RCO-141-79 | 1788-10-07 | San Ildefonso | TD | Sí |
+| [CNHID00008](/texto_xml-tei/CNHID00008.xml) | Real órden AGN-RCO-136-140 | 1787-03-28 | Madrid | TD | Sí |
+| [CNHID00009](/texto_xml-tei/CNHID00009.xml) | Real cédula AGN-RCO-139-21 | 1788-01-16 | El Pardo | TD | Sí |
+| [CNHID00010](/texto_xml-tei/CNHID00010.xml) | Real cédula AGN-RCO-141-79 | 1788-10-07 | San Ildefonso | TD | Sí |
+
+[^Fn1]: De esta ordenanza hay dos ediciones facsimilares: Ricardo Rees Jones (ed.) *Real ordenanza para el establecimiento e instrucción de intendentes de ejército y provincia en el Reino de la Nueva España, 1786*. (México: Universidad Nacional Autónoma de México, 1984), y Marina Mantilla Trolle, Rafael Diego-Fernández Sotelo y Agustín Moreno Torres (eds.) *Real ordenanza para el establecimiento é instruccion de intendentes de exército y provincia en el reino de la Nueva España*. (Guadalajara: El Colegio de Michoacán / Universidad de Guadalajara, 2008).
