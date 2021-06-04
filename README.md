@@ -1,6 +1,6 @@
 # CNHID - corpus normativo hispano indiano digital
 
-Este repositorio contiene los archivos del proyecto de digitalización de textos jurídicos
+Este repositorio contiene los archivos del proyecto de digitalización de textos jurídico
 normativos hispano-indianos producidos entre 1492 y 1821.
 
 Una versión de prueba del repositorio fue el [corpus de derecho hispano indiano](https://github.com/Cibercliografia/Corpus-de-derecho-castellano-indiano-digital).
@@ -12,8 +12,12 @@ El proyecto *Corpus normativo hispano indiano digital* es desarrollado por Víct
 Una primera propuesta del proyecto se presentó en el marco de la DH2018 conference, “Puentes/Bridges” con el título [“Corpus Jurídico Hispano Indiano Digital: Análisis De Una Cultura Jurisdiccional”](https://dh-abstracts.library.cmu.edu/works/6545)
 
 La finalidad es desarrollar una propuesta para la edición de esas fuentes
-normativas digitalizadas en `xml-tei` ([véase: TEI](https://tei-c.org/)), su publicación en línea y la descarga en forma de datos abiertos que permitan el análisis de estos
+normativas digitalizadas en `xml-tei` ([véase: TEI](https://tei-c.org/)), su publicación en línea y pposibilitar su descarga en forma de datos abiertos que permitan el análisis de estos
 textos con herramientas digitales como las propuestas en [The Programming Historian](https://programminghistorian.org/).
+
+### Contenido
+
+Para saber qué normas contiene este repositorio y acceder a ellas consulte el <a href="/indice-de-documentos.md" target="-blank">Índice de documentos</a>
 
 ## Proyectos relacionados
 
