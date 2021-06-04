@@ -3,16 +3,27 @@ title: índice de documentos
 author: Víctor Gayol
 ---
 
-Este índice de documentos está organizado por colecciones. Da la referencia . La tabla al final de la página se encuentra el listado de textos digitalizados y o en proceso de digitalización.
+## Índice de documentos
+
+**NB:** El presente es un documento de trabajo que está en continua edición. Para observar las versiones anteriores seleccione la opción `History` en el menú de arriba.
+
+Este índice de documentos está organizado por colecciones. El encabezado de cada colección refiere 1) responsable de la digitalización; 2) responsable de la transcripción para la obtención del texto plano; 3) proyecto al que pertenece; 4) repositorio digital de origen; y 5) repositorio(s) de la colección documental.
+
+Cada colección organiza los documentos según tablas que pueden variar. Generalmente se toma en cuenta la fecha de producción del documento normativo, el lugar, la descripción del catálogo, signatura y número ID del documento en el proyecto general. En el caso de recopilaciones u ordenanzas impresas, se da la fecha de impresión, la referencia bibliográfica y el número ID del documento.
+
+Los documentos marcados en `xml-tei` cuentan con un hipervínculo en el número ID que le llevará al archivo digital dentro de este repositorio. Para descargar un archivo en particular, vaya al hipervínculo, seleccione la opción `raw`, seleccione todo el texto y péguelo en su editor de texto preferido guardándolo con el mismo nombre y la extensión  de archivo `xml`. Al guardar el archivo, verifique que la codificación sea `utf-8`
+
+La tabla al final de este documento es el listado completo de textos digitalizados y/o en proceso de digitalización, organizados en orden ascendente por su ID.
 
 ## Colección de reales cédulas sobre subdelegados
 
-- **Recopilación:** José Luis Alcauter
+- **Digitalización:** José Luis Alcauter
+- **Transcripción:** Víctor Gayol
 - **Proyecto:** <a href="http://www.rersab.org" target="_blank">RERSAB</a>
 - **Repositorio de origen de  la digitalización:** RERSAB -> colecciones legislativas -> <a href="http://www.rersab.org/index.php/actividades/colecciones-legislativas?id=86" target="_blank">reales cédulas sobre subdelegados</a>
 - **Repositorio de origen de los documentos:** Archivo General de la Nación, México.
 
-| fecha | lugar | descripción | signatura | iD CNHID |
+| fecha | lugar | descripción | signatura | Id. CNHID |
 |-------|-------|-------------|-----------|----------|
 | 1787-03-28 | Madrid | Señala que con motivo de la entrada en vigor de la Real Ordenanza deben cesar en su encargo los corregidores y alcaldes mayores que han cumplido su tiempo, pero que convendrá que algunos de ellos continúen en calidad de subdelegados de los intendentes. | AGN, RCO, vol. 136, exp. 140, fs. 245f-246f. | [CNHID00008](/texto_xml-tei/CNHID00008.xml) |
 | 1788-01-16 | El Pardo | Aprueba que no se había concedido la subdelegación de Guayacocotla en la intendencia de Puebla al teniente José Ma. Otero, porque dice que los empleos son incompatibles con los militares. | AGN, RCO, vol. 139, exp.21, f. 22f. | [CNHID00009](/texto_xml-tei/CNHID00009.xml) |
@@ -64,27 +75,28 @@ Este índice de documentos está organizado por colecciones. Da la referencia . 
 
 | fecha | referencia | Id. CNHID |
 |-------|------------|-----------|
-| 1718 | *Ordenanza de 4 de julio de 1718 para el establecimiento e instrucción de Intendentes de Provincias, y Exércitos*, por orden de Su Magestad, En Madrid, En la Imprenta de Juan de Ariztia, Año de 1718 | |
-| 1749 | *Ordenanza de 13 de octubre de 1749 para el restablecimiento de las instrucciones de las provincias exercias*, por orden de Su Magestad, Madrid, En la Imprenta de Manuel Fernández, año de 1749 | |
+| 1718 | *Ordenanza de 4 de julio de 1718 para el establecimiento e instrucción de Intendentes de Provincias, y Exércitos*, por orden de Su Magestad, En Madrid, En la Imprenta de Juan de Ariztia, Año de 1718 | CNHID00046 |
+| 1749 | *Ordenanza de 13 de octubre de 1749 para el restablecimiento de las instrucciones de las provincias exercias*, por orden de Su Magestad, Madrid, En la Imprenta de Manuel Fernández, año de 1749 | CNHID00047 |
 | 1782 | *Real Ordenanza para el establecimiento è instruccion de intendentes de exército y provincia en el virreinato de Buenos Aires*. Año de 1782. por orden de Su Magestad, Madrid, En la Imprenta Real, 1783 | CNHID00007 |
 | 1786 | *Real Ordenanza para el establecimiento de intendentes del ejército y la provincia en el Reino de la Nueva España*, de orden de Su Magestad , Madrid, año de 1786 | CNHID00004 |
-| 1803 | *Ordenanza general formada de orden de Su Majestad, y mandada imprimir y publicar para el gobierno e instrucción de intendentes, subdelegados y por demás empleados en Indias*, Madrid, En la Imprenta de la Viuda de Ibarra, 1803 | |
+| 1803 | *Ordenanza general formada de orden de Su Majestad, y mandada imprimir y publicar para el gobierno e instrucción de intendentes, subdelegados y por demás empleados en Indias*, Madrid, En la Imprenta de la Viuda de Ibarra, 1803 | CNHID00048 |
 
-## Textos digitalizados
+## Lista de textos digitalizados
 
-Los textos se presentan y se identifican con el número CNHIDxxxxx que se le asignó por el orden
-en el que se comenzó el proceso de digitalización o se retomó. Se incluye información
-sobre el estado:
+La lista está organizada en orden ascendente según el número CNHIDxxxxx que se le asignó de manera arbitraria según se fueron incluyendo en el proyecto. La información comprende algunos datos sobre el método de obtención y el estado del etiquetado.
 
-| ID  | título | fechas | lugar de producción | publicado | marcado tei |
-|-----|--------|--------|---------------------|-----------|-------------|
-| CNHID00001 | Arancel de los derechos que han de percibir los receptores de la Real Audiencia de esta Corte | 1741-07-11 | CDMX | LJ | NO |
-| CNHID00002 | Arancel de los procuradores de la Real Audiencia de esta Corte | 1741-07-12 | CDMX | LJ | NO |
-| CNHID00003 | Arancel de los derechos que han de percebir los Escribanos de Camara de la Real Audiencia de esta Corte, y sus Oficiales| 1741-07-12 | CDMX | LJ | no |
-| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... Nueva España | 1786 | MD | RRJ | en proceso |
-| CNHID00005 | Reales aranceles de los ministros de la real audiencia... | 1699-1727 | CDMX | CGJ | en proceso |
-| CNHID00006 | Cedulario de la Nueva España, Vasco de Puga | 1563 | CDMX | no | en proceso |
-| CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | MD | no | en proceso |
-| [CNHID00008](/ed//texts/-CNHID00008)  | Real órden AGN-RCO-136-140 | 1787-03-28 | MD-CDMX | no | en proceso |
-| [CNHID00009](/ed//texts/-CNHID00009)  | Real cédula AGN-RCO-139-21 | 1788-01-16 | El Pardo | no | en proceso |
-| [CNHID00010](/ed//texts/-CNHID00010)  | Real cédula AGN-RCO-141-79 | 1788-10-07 | San Ildefonso | no | en proceso |
+* TD = transcripción directa
+* OCR = transcripción automatizada
+
+| ID  | título | fechas | lugar  | obtención | marcado tei |
+|-----|--------|--------|--------|-----------|-------------|
+| CNHID00001 | Arancel de los derechos que han de percibir los receptores de la Real Audiencia de esta Corte | 1741-07-11 | México | TD | NO |
+| CNHID00002 | Arancel de los procuradores de la Real Audiencia de esta Corte | 1741-07-12 | México | TD | NO |
+| CNHID00003 | Arancel de los derechos que han de percebir los Escribanos de Camara de la Real Audiencia de esta Corte, y sus Oficiales| 1741-07-12 | México | TD | no |
+| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... Nueva España | 1786 | Madrid | OCR | en proceso |
+| CNHID00005 | Reales aranceles de los ministros de la real audiencia... | 1699-1727 | México | TD | en proceso |
+| CNHID00006 | Cedulario de la Nueva España, Vasco de Puga | 1563 | México | OCR | en proceso |
+| CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | Madrid | OCR | en proceso |
+| [CNHID00008](/ed//texts/-CNHID00008)  | Real órden AGN-RCO-136-140 | 1787-03-28 | Madrid | TD | Sí |
+| [CNHID00009](/ed//texts/-CNHID00009)  | Real cédula AGN-RCO-139-21 | 1788-01-16 | El Pardo | TD | Sí |
+| [CNHID00010](/ed//texts/-CNHID00010)  | Real cédula AGN-RCO-141-79 | 1788-10-07 | San Ildefonso | TD | Sí |
