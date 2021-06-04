@@ -93,7 +93,7 @@ La lista está organizada en orden ascendente según el número CNHIDxxxxx que s
 | CNHID00001 | Arancel de los derechos que han de percibir los receptores de la Real Audiencia de esta Corte | 1741-07-11 | México | TD | NO |
 | CNHID00002 | Arancel de los procuradores de la Real Audiencia de esta Corte | 1741-07-12 | México | TD | NO |
 | CNHID00003 | Arancel de los derechos que han de percebir los Escribanos de Camara de la Real Audiencia de esta Corte, y sus Oficiales| 1741-07-12 | México | TD | no |
-| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... Nueva España | 1786 | Madrid | OCR | en proceso |
+| CNHID00004 | *Real Ordenanza para el establecimiento de intendentes del ejército y la provincia en el Reino de la Nueva España*, de orden de Su Magestad , Madrid, año de 1786 | 1786 | Madrid | OCR | en proceso |
 | CNHID00005 | Reales aranceles de los ministros de la real audiencia... | 1699-1727 | México | TD | en proceso |
 | CNHID00006 | Cedulario de la Nueva España, Vasco de Puga | 1563 | México | OCR | en proceso |
 | CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | Madrid | OCR | en proceso |
