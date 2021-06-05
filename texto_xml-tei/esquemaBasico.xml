@@ -29,7 +29,9 @@
             <date>2021</date>
             <idno></idno>
             <distributor>El Colegio de Michoacán, A.C.</distributor>
-            <availability><licence>Creative Commons</licence></availability>
+            <availability>
+							<licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)</licence>
+						</availability>
          </publicationStmt>
          <sourceDesc>
             <!-- Información sobre la fuente para edición en formato digital -->
