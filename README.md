@@ -7,12 +7,12 @@ Una versión de prueba del repositorio fue el [corpus de derecho hispano indiano
 
 ## Objetivo
 
-El proyecto *Corpus normativo hispano indiano digital* es desarrollado por Víctor Gayol, profesor-investigador del Centro de Estudios Históricos de El Colegio de Michoacán, A.C.
+El proyecto *Corpus normativo hispano indiano digital* es una iniciativa colectiva coordinada por Víctor Gayol, profesor-investigador del Centro de Estudios Históricos de El Colegio de Michoacán, A.C.
 
 Una primera propuesta del proyecto se presentó en el marco de la DH2018 conference, “Puentes/Bridges” con el título [“Corpus Jurídico Hispano Indiano Digital: Análisis De Una Cultura Jurisdiccional”](https://dh-abstracts.library.cmu.edu/works/6545)
 
 La finalidad es desarrollar una propuesta para la edición de esas fuentes
-normativas digitalizadas en `xml-tei` ([véase: TEI](https://tei-c.org/)), su publicación en línea y pposibilitar su descarga en forma de datos abiertos que permitan el análisis de estos
+normativas digitalizadas en `xml-tei` ([véase: TEI](https://tei-c.org/)), su publicación en línea y posibilitar su descarga en forma de datos abiertos que permitan el análisis de estos
 textos con herramientas digitales como las propuestas en [The Programming Historian](https://programminghistorian.org/).
 
 ### Contenido
