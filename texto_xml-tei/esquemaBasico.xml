@@ -21,6 +21,9 @@
                <name>Nombre</name>
             </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition></edition>
+         </editionStmt>
          <publicationStmt>
             <!-- Información sobre la entidad responsable de la publicación -->
             <publisher>El Colegio de Michoacán, A.C.</publisher>
