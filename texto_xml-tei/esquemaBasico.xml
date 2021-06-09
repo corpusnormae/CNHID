@@ -107,8 +107,8 @@
   </teiHeader>
   <text>
       <body>
-         <pb n=""/>
          <div>
+            <pb n=""/>
             <!-- Puede llevar <ab> para bloques o <p> para párrafos -->
          </div>
       </body>
