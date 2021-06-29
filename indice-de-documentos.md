@@ -69,8 +69,8 @@ La tabla al final de este documento es el listado completo de textos digitalizad
 
 - **Recopilación:** varios
 - **Proyecto:** <a href="http://www.rersab.org" target="_blank">RERSAB</a>
-- **Repositorio de origen de  la digitalización:** RERSAB -> <a href="http://www.rersab.org/index.php/actividades/colecciones-legislativas" target="_blank">repositorio digital</a>
-- **Repositorio de origen de los documentos:** Archivo General de la Nación, México.
+- **Repositorio de origen de  la digitalización:** RERSAB -> <a href="http://www.rersab.org/index.php/actividades/colecciones-legislativas" target="_blank">repositorio digital</a> e <a href="https://archive.org/" target="_blank">Internet Archive</a>
+- **Repositorio de origen de los documentos:** Varios
 
 
 | fecha | referencia | Id. CNHID |
